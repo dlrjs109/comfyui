@@ -21,6 +21,13 @@ PIP_PACKAGES=(
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/cubiq/ComfyUI_essentials"
+    "https://github.com/kijai/ComfyUI-WanVideoWrapper"
+    "https://github.com/chflame163/ComfyUI_LayerStyle"
+    "https://github.com/rgthree/rgthree-comfy"
+    "https://github.com/kijai/ComfyUI-KJNodes"
+    "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
+    "https://github.com/kijai/ComfyUI-segment-anything-2"
+    "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
 )
 
 CHECKPOINT_MODELS=(
