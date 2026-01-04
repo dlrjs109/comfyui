@@ -28,6 +28,7 @@ NODES=(
     "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
     "https://github.com/kijai/ComfyUI-segment-anything-2"
     "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
+    "https://github.com/ali-vilab/VACE"
 )
 
 CHECKPOINT_MODELS=(
